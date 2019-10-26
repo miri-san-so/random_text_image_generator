@@ -1,2 +1,7 @@
-# random_text_image_generator
-fetches text from a random text generator website, slaps it on a white image and exports
+## **_create images with random text_**
+
+- fetches text from https://funnysentences.com/sentence-generator/
+
+- adds text to a white image
+
+- saves image to the same directory
